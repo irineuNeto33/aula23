@@ -2,12 +2,12 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(22, 22, 22);
+    background-color: rgb(7, 7, 7);
     height: 100vh;
     
 }
 .call{
-    background-color: blueviolet;
+    background-image: url(OIP.jfif) ;
     width: 500px;
     height: 400px;
     color: white;
@@ -16,14 +16,17 @@
     flex-direction:column;
     border-radius: 20px;
     justify-content: center;
-    ba
+    
     
 }
 h1{
     text-align: center;
-    background-color:blueviolet;
+    background-color:rgb(96, 50, 139);
     margin-bottom: 0px;
     color: white;
+   
+    
+
     
 }
 .item{
@@ -31,14 +34,32 @@ h1{
     display: flex;
     align-items: center;
     justify-content: center;
+    border-radius: 20px;
+    height: 40px;
+    border-color: blueviolet;
+    
     
     
 }
+.item3{
+        width: 263px;
+        border-radius: 20px;
+        height: 40px; 
+        -webkit-box-shadow: 10px -10px rgba(0,0,0,0.6) ; 
+.item2{
+    width: 260px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+      
+    
+}  
 body{
-    background-color: black;
+    background-image: url(OIP.jfif);
 }
 .ds{
     border-top-color: black;
+    
 }
     
 
