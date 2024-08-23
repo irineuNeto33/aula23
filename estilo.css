@@ -1,0 +1,45 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(22, 22, 22);
+    height: 100vh;
+    
+}
+.call{
+    background-color: blueviolet;
+    width: 500px;
+    height: 400px;
+    color: white;
+    display: flex;
+    align-items:center;
+    flex-direction:column;
+    border-radius: 20px;
+    justify-content: center;
+    ba
+    
+}
+h1{
+    text-align: center;
+    background-color:blueviolet;
+    margin-bottom: 0px;
+    color: white;
+    
+}
+.item{
+    width: 260px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+body{
+    background-color: black;
+}
+.ds{
+    border-top-color: black;
+}
+    
+
+
